@@ -4,6 +4,6 @@
 **3.Sathira kittisukmongkol 5910545868 (nongjamie)** </br> 
 **4.Varit Assavavisidchai 5910545833 (KongSKE)** </br>
 
-[Link for solution 1.](https://morning-springs-59426.herokuapp.com/static_pages/page1)
-[Link for solution 2.](https://morning-springs-59426.herokuapp.com/static_pages/page2)
-[Link for solution 3.](https://morning-springs-59426.herokuapp.com/static_pages/page3)
+[Link for solution 1.](https://morning-springs-59426.herokuapp.com/static_pages/page1) </br>
+[Link for solution 2.](https://morning-springs-59426.herokuapp.com/static_pages/page2) </br>
+[Link for solution 3.](https://morning-springs-59426.herokuapp.com/static_pages/page3) </br>
