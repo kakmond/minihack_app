@@ -1,24 +1,9 @@
-# README
+# Group Members
+**1.Wongsathorn Panochkurkul 5910545817 (kakmond)** </br>
+**2.Totspon Menkul 5910545698 (hereton)** </br>
+**3.Sathira kittisukmongkol 5910545868 (nongjamie)** </br> 
+**4.Varit Assavavisidchai 5910545833 (KongSKE)** </br>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[Link for solution 1.](https://morning-springs-59426.herokuapp.com/static_pages/page1)
+[Link for solution 2.](https://morning-springs-59426.herokuapp.com/static_pages/page2)
+[Link for solution 3.](https://morning-springs-59426.herokuapp.com/static_pages/page3)
